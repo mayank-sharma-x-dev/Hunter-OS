@@ -322,6 +322,8 @@ const Index = () => {
               <span className="font-ui text-xs">Solo Leveling © 2026</span>
               <span className="w-1 h-1 rounded-full bg-muted-foreground/20" />
               <span className="font-ui text-xs">Student Hunter System</span>
+              <span className="w-1 h-1 rounded-full bg-muted-foreground/20" />
+              <span className="font-ui text-xs">Created by Dev Mayank Sharma 2026</span>
             </div>
           </div>
         </div>
