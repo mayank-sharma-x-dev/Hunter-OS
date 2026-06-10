@@ -1,0 +1,7 @@
+project_id = "henvtnwmwznsftyhxiwy"
+
+[functions.lucy-ai]
+verify_jwt = false
+
+[functions.skill-videos]
+verify_jwt = false
